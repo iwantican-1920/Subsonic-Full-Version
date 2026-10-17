@@ -271,4 +271,4 @@ This repository serves as the official landing page for Subsonic. The software i
 **Get the most recent version of Subsonic today!**
 
 ---
-**Last updated:** 2026-10-17 11:25:22 UTC
+**Last updated:** 2026-10-17 15:04:53 UTC
